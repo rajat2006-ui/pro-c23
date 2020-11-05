@@ -63,7 +63,7 @@ function draw() {
 
  
 
-  drawSprites();
+ 
  
 }
 
